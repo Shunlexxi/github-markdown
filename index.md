@@ -1,7 +1,8 @@
-# Greetings
+# Greeting!
+
 Hello, world!
 
-## Github
+###### Github
 Hi, Mona!
 
 
